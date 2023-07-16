@@ -1,2 +1,1 @@
-# plants
-make project in rs-school
+https://yana-dyachok.github.io/plants/
