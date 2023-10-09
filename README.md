@@ -1,5 +1,5 @@
 ## Description of the project Plants
-## Plants - task stage#0 during which you will create the landing page of a site that offers its services for growing plants in the garden and caring for them, make it adaptive and interactive.
+### Plants - task stage#0 during which you will create the landing page of a site that offers its services for growing plants in the garden and caring for them, make it adaptive and interactive.
 ## Skills:
 + valid semantic adaptive layout
 + easily maintainable readable code
