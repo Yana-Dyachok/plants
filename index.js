@@ -17,7 +17,7 @@ overlay.addEventListener('click', toggleClasses);
 
 navLink.forEach((el) => {
     el.addEventListener('click', ()=> {
-        if(body.classList.contains('-active'))toggleClasses()});
+        if(overlay.classList.contains('-active'))toggleClasses()});
 });
 
 
